@@ -32,8 +32,8 @@ Jeecg-boot 的前端UI框架，采用前后端分离方案，提供强大代码�
 
 - 拉取项目代码
 ```bash
-git clone https://github.com/zhangdaiscott/jeecg-boot.git
-cd  jeecg-boot/ant-design-vue-jeecg
+git clone https://github.com/zyy1939/hello-world-vue.git
+cd  hello-world-vue
 ```
 
 - 安装依赖
